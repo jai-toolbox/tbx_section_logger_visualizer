@@ -1,0 +1,6 @@
+[submodule "src/tbx"]
+	path = src/tbx
+	url = git@github.com:jai-toolbox/tbx.git
+[submodule "data/shaders"]
+	path = data/shaders
+	url = git@github.com:jai-toolbox/shaders.git
